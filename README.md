@@ -1,4 +1,4 @@
-# Value-aware Recommendation based on Reinforced Profit Maximization in E-commerce System
+# Value-aware Recommendation based on Reinforcement Profit Maximization
 
 ## Code for paper. This version is for single machine, distributed version will be published later.
 
